@@ -1,0 +1,10 @@
+* Schematics Netlist *
+
+
+
+V_V1         1 0 6
+R_R3         0 3  10k  
+D_D2         3 2 D1N4002 
+R_R2         4 2  20k  
+D_D1         1 2 D1N4002 
+D_D3         4 0 D1N4002 
